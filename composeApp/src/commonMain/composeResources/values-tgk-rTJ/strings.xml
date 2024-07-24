@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Tabs -->
-    <string name="home">Главное</string>
-    <string name="cms">СТМ</string>
-    <string name="map">Карта</string>
-    <string name="signin">Войти</string>
-    <string name="profile">Профиль</string>
-    <string name="settings">Настройки</string>
-
+    <string name="home">Асоси</string>
+    <string name="cms">Назорат</string>
+    <string name="map">Харита</string>
+    <string name="signin">Вуруд</string>
+    <string name="profile">Шахси</string>
+    <string name="settings">Чур</string>
     <!-- Labels -->
-    <string name="username">Имя пользователя</string>
-    <string name="password">Пароль</string>
-    
+    <string name="username">Номи истифодабаранда</string>
+    <string name="password">Рамз</string>
     <!-- Placeholders -->
  
 
@@ -19,5 +17,4 @@
  
 
     <!-- Toast messages -->
-
 </resources>
