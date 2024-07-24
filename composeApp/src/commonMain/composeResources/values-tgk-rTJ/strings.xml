@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Tabs -->
-    <string name="home">Home</string>
-    <string name="cms">CMS</string>
-    <string name="map">Map</string>
-    <string name="signin">SignIn</string>
-    <string name="profile">Profile</string>
-    <string name="settings">Settings</string>
+    <string name="home">Главное</string>
+    <string name="cms">СТМ</string>
+    <string name="map">Карта</string>
+    <string name="signin">Войти</string>
+    <string name="profile">Профиль</string>
+    <string name="settings">Настройки</string>
 
     <!-- Labels -->
-    <string name="username">Username</string>
-    <string name="password">Password</string>
+    <string name="username">Имя пользователя</string>
+    <string name="password">Пароль</string>
     
     <!-- Placeholders -->
  
