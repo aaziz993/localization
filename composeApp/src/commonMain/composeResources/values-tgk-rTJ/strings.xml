@@ -17,4 +17,10 @@
  
 
     <!-- Toast messages -->
+<string name="dark_mode">Шакли торик</string>
+    <string name="language">Забон</string>
+    <string name="common_remember_me">Манро сабт намоед?</string>
+    <string name="user_interface">Намоиши барнома</string>
+    <string name="signout">Хуруч</string>
+    <string name="search_hint">Чустучу...</string>
 </resources>
