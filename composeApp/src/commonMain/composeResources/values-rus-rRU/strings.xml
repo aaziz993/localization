@@ -7,11 +7,9 @@
     <string name="signin">Войти</string>
     <string name="profile">Профиль</string>
     <string name="settings">Настройки</string>
-
     <!-- Labels -->
     <string name="username">Имя пользователя</string>
     <string name="password">Пароль</string>
-    
     <!-- Placeholders -->
  
 
@@ -19,5 +17,4 @@
  
 
     <!-- Toast messages -->
-
 </resources>
