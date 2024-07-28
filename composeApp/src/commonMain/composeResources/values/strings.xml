@@ -7,11 +7,9 @@
     <string name="signin">SignIn</string>
     <string name="profile">Profile</string>
     <string name="settings">Settings</string>
-
     <!-- Labels -->
     <string name="username">Username</string>
     <string name="password">Password</string>
-    
     <!-- Placeholders -->
  
 
@@ -20,4 +18,10 @@
 
     <!-- Toast messages -->
 
+<string name="dark_mode">Dark mode</string>
+    <string name="language">Language</string>
+    <string name="common_remember_me">Remember me?</string>
+    <string name="user_interface">User interface</string>
+    <string name="signout">SignOut</string>
+    <string name="search_hint">Search...</string>
 </resources>
