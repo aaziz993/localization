@@ -23,4 +23,6 @@
     <string name="signout">Хуруч</string>
     <string name="search_hint">Чустучу...</string>
     <string name="remember_me">Манро сабт намоед?</string>
+    <string name="sign_in">Вуруд</string>
+    <string name="sign_out">Хуруч</string>
 </resources>
