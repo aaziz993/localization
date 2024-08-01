@@ -20,7 +20,6 @@
 <string name="dark_mode">Dark mode</string>
     <string name="language">Language</string>
     <string name="user_interface">User interface</string>
-    <string name="signout">SignOut</string>
     <string name="search_hint">Search...</string>
     <string name="remember_me">Remember me?</string>
     <string name="sign_in">Sign In</string>
