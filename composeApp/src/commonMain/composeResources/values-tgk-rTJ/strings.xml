@@ -2,7 +2,7 @@
 <resources>
     <!-- Tabs -->
     <string name="home">Асоси</string>
-    <string name="cms">Назорат</string>
+    <string name="cms">ННГ</string>
     <string name="map">Харита</string>
     <string name="profile">Хучра</string>
     <string name="settings">Чур</string>
@@ -19,7 +19,7 @@
 <string name="dark_mode">Шакли торик</string>
     <string name="language">Забон</string>
     <string name="user_interface">Намоиши барнома</string>
-    <string name="search_hint">Чустучу...</string>
+    <string name="search_hint">Чустучу…</string>
     <string name="remember_me">Манро сабт намоед?</string>
     <string name="sign_in">Вуруд</string>
     <string name="sign_out">Хуруч</string>
