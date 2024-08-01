@@ -1,23 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- Tabs -->
     <string name="home">Home</string>
     <string name="cms">CMS</string>
     <string name="map">Map</string>
     <string name="profile">Profile</string>
     <string name="settings">Settings</string>
-    <!-- Labels -->
     <string name="username">Username</string>
     <string name="password">Password</string>
-    <!-- Placeholders -->
- 
-
-    <!-- Buttons -->
- 
-
-    <!-- Toast messages -->
-
-<string name="dark_mode">Dark mode</string>
+    <string name="dark_mode">Dark mode</string>
     <string name="language">Language</string>
     <string name="user_interface">User interface</string>
     <string name="search_hint">Search...</string>
