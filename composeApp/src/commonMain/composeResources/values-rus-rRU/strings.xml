@@ -31,4 +31,10 @@
     <string name="confirm_password">Подтвердите пароль</string>
     <string name="last_name">Фамилия</string>
     <string name="roles">Роли</string>
+    <string name="submit">Подтвердить</string>
+    <string name="Russian">Русский</string>
+    <string name="select_tile">Выбор карты</string>
+    <string name="English">Английский</string>
+    <string name="new_password">Новый пароль</string>
+    <string name="Tajik">Таджикский</string>
 </resources>
