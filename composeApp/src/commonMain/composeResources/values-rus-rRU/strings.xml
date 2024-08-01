@@ -19,7 +19,7 @@
 <string name="dark_mode">Темная тема</string>
     <string name="language">Язык</string>
     <string name="user_interface">Интерфейс пользователя</string>
-    <string name="search_hint">Поиск...</string>
+    <string name="search_hint">Поиск…</string>
     <string name="remember_me">Запомнить меня?</string>
     <string name="sign_in">Войти</string>
     <string name="sign_out">Выйти</string>
