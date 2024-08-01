@@ -24,4 +24,6 @@
     <string name="signout">SignOut</string>
     <string name="search_hint">Search...</string>
     <string name="remember_me">Remember me?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_out">Sign Out</string>
 </resources>
