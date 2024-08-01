@@ -4,7 +4,7 @@
     <string name="home">Асоси</string>
     <string name="cms">Назорат</string>
     <string name="map">Харита</string>
-    <string name="profile">Шахси</string>
+    <string name="profile">Хучра</string>
     <string name="settings">Чур</string>
     <!-- Labels -->
     <string name="username">Номи истифодабаранда</string>
@@ -23,4 +23,13 @@
     <string name="remember_me">Манро сабт намоед?</string>
     <string name="sign_in">Вуруд</string>
     <string name="sign_out">Хуруч</string>
+    <string name="first_name">Ном</string>
+    <string name="actions">Амалхо</string>
+    <string name="email">Хазинаи раками</string>
+    <string name="user_info">Маълумоти истифодабаранда</string>
+    <string name="reset_password">Ивази рамз</string>
+    <string name="old_password">Рамзи пештара</string>
+    <string name="confirm_password">Тасдики рамз</string>
+    <string name="last_name">Насаб</string>
+    <string name="roles">Ролхо</string>
 </resources>
