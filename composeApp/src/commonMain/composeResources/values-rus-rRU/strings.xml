@@ -21,7 +21,6 @@
     <string name="user_interface">Интерфейс пользователя</string>
     <string name="search_hint">Поиск…</string>
     <string name="remember_me">Запомнить меня?</string>
-    <string name="sign_out">Выйти</string>
     <string name="first_name">Имя</string>
     <string name="email">Электронная почта</string>
     <string name="actions">Действия</string>
