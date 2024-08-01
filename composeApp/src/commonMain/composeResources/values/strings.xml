@@ -32,4 +32,10 @@
     <string name="confirm_password">Confirm password</string>
     <string name="last_name">Last name</string>
     <string name="roles">Roles</string>
+    <string name="submit">Submit</string>
+    <string name="Russian">Russian</string>
+    <string name="select_tile">Select tile</string>
+    <string name="English">English</string>
+    <string name="new_password">New password</string>
+    <string name="Tajik">Tajik</string>
 </resources>
