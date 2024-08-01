@@ -31,4 +31,10 @@
     <string name="confirm_password">Тасдики рамз</string>
     <string name="last_name">Насаб</string>
     <string name="roles">Ролхо</string>
+    <string name="submit">Тасдик</string>
+    <string name="Russian">Руси</string>
+    <string name="select_tile">Интихоби харита</string>
+    <string name="English">Англиси</string>
+    <string name="new_password">Рамзи нав</string>
+    <string name="Tajik">Точики</string>
 </resources>
