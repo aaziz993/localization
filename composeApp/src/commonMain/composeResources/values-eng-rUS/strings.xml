@@ -34,7 +34,6 @@
     <string name="language">Language</string>
     <string name="user_interface">User interface</string>
     <string name="remember_me">Remember me?</string>
-    <string name="sign_out">Sign Out</string>
     <string name="user_info">User info</string>
     <string name="reset_password">Reset password</string>
     <string name="confirm_password">Confirm password</string>
