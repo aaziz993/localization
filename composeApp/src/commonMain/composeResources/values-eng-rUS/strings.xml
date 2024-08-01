@@ -41,4 +41,5 @@
     <string name="last_name">Last name</string>
     <string name="new_password">New password</string>
     <string name="Tajik">Tajik</string>
+    <string name="sign_in">Sign In</string>
 </resources>
