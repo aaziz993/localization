@@ -28,7 +28,7 @@
     <string name="reset_password">Ивази рамз</string>
     <string name="confirm_password">Тасдики рамз</string>
     <string name="last_name">Насаб</string>
-    <string name="roles">Ролхо</string>
+    <string name="roles">Накшхо</string>
     <string name="submit">Тасдик</string>
     <string name="Russian">Руси</string>
     <string name="select_tile">Интихоби харита</string>
@@ -38,4 +38,5 @@
     <string name="sign_in">Вуруд</string>
     <string name="sign_out">Хуруч</string>
     <string name="network_401">Ичозат нест</string>
+    <string name="repeat_password">Такрори рамз</string>
 </resources>
