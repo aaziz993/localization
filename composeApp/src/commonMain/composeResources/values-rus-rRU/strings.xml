@@ -26,7 +26,6 @@
     <string name="actions">Действия</string>
     <string name="user_info">Информация пользователя</string>
     <string name="reset_password">Сброс пароля</string>
-    <string name="confirm_password">Подтвердите пароль</string>
     <string name="last_name">Фамилия</string>
     <string name="roles">Роли</string>
     <string name="submit">Подтвердить</string>
