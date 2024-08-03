@@ -29,4 +29,5 @@
     <string name="sign_in">Sign In</string>
     <string name="sign_out">Sign Out</string>
     <string name="network_401">Unauthorized</string>
+    <string name="repeat_password">Repeat paassword</string>
 </resources>
