@@ -42,4 +42,5 @@
     <string name="Tajik">Tajik</string>
     <string name="sign_in">Sign In</string>
     <string name="sign_out">Sign Out</string>
+    <string name="401">Unauthorized</string>
 </resources>
