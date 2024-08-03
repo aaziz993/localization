@@ -37,4 +37,5 @@
     <string name="Tajik">Точики</string>
     <string name="sign_in">Вуруд</string>
     <string name="sign_out">Хуруч</string>
+    <string name="unauthorized">Манъ аст</string>
 </resources>
