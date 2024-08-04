@@ -47,4 +47,6 @@
     <string name="phone_prefix_is_invalid">Бояд сар шавад бо +</string>
     <string name="value_has_not_digits">Маълумот ракамхо надорад</string>
     <string name="value_has_letters">Маълумот харфхо дорад</string>
+    <string name="cancel">Бекор</string>
+    <string name="confirm">Тасдик</string>
 </resources>
