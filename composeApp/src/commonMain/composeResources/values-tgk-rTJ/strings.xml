@@ -38,4 +38,13 @@
     <string name="sign_out">Хуруч</string>
     <string name="network_401">Ичозат нест</string>
     <string name="repeat_password">Такрори рамз</string>
+    <string name="retry">Такрор</string>
+    <string name="value_is_empty">Сутуни холи</string>
+    <string name="value_length_is_invalid">Нодуруст дарозии маълумот</string>
+    <string name="value_is_invalid">Маълумоти нодуруст</string>
+    <string name="passwords_mismatch">Рамзхо гуногунанд</string>
+    <string name="value_has_whitespace">Маълумот сатр дорад</string>
+    <string name="phone_prefix_is_invalid">Бояд сар шавад бо +</string>
+    <string name="value_has_not_digits">Маълумот ракамхо надорад</string>
+    <string name="value_has_letters">Маълумот харфхо дорад</string>
 </resources>
