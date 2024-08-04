@@ -40,4 +40,5 @@
     <string name="value_has_letters">Value has letters</string>
     <string name="cancel">Cancel</string>
     <string name="confirm">Confirm</string>
+    <string name="phone">Phone</string>
 </resources>
