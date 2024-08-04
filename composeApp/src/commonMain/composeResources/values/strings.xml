@@ -38,5 +38,4 @@
     <string name="phone_prefix_is_invalid">Should start with +</string>
     <string name="value_has_not_digits">Value has not digits</string>
     <string name="value_has_letters">Value has letters</string>
-    <string name="confirm">Confirm</string>
 </resources>
