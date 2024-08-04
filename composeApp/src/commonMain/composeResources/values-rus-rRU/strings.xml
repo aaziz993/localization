@@ -47,5 +47,4 @@
     <string name="phone_prefix_is_invalid">Должно начинаться с +</string>
     <string name="value_has_not_digits">Значение не содержит цифры</string>
     <string name="value_has_letters">Значение содержит буквы</string>
-    <string name="confirm">Подтвердить</string>
 </resources>
