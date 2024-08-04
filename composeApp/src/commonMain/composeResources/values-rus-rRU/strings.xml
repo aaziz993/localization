@@ -38,4 +38,14 @@
     <string name="sign_out">Выйти</string>
     <string name="network_401">Не авторизирован</string>
     <string name="repeat_password">Повторить пароль</string>
+    <string name="retry">Повторить</string>
+    <string name="value_is_empty">Пустое поле</string>
+    <string name="value_length_is_invalid">Неправильная длина значения</string>
+    <string name="value_is_invalid">Неправильное значение</string>
+    <string name="passwords_mismatch">Пароли не совпадают</string>
+    <string name="value_has_whitespace">Значение содержит пробел</string>
+    <string name="phone_prefix_is_invalid">Должно начинаться с +</string>
+    <string name="value_has_not_digits">Значение не содержит цифры</string>
+    <string name="value_has_letters">Значение содержит буквы</string>
+    <string name="confirm">Подтвердить</string>
 </resources>
