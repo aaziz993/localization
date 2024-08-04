@@ -28,7 +28,7 @@
     <string name="reset_password">Сброс пароля</string>
     <string name="last_name">Фамилия</string>
     <string name="roles">Роли</string>
-    <string name="submit">Подтвердить</string>
+    <string name="submit">Завершить</string>
     <string name="Russian">Русский</string>
     <string name="select_tile">Выбор карты</string>
     <string name="English">Английский</string>
@@ -47,4 +47,6 @@
     <string name="phone_prefix_is_invalid">Должно начинаться с +</string>
     <string name="value_has_not_digits">Значение не содержит цифры</string>
     <string name="value_has_letters">Значение содержит буквы</string>
+    <string name="cancel">Отменить</string>
+    <string name="confirm">Подтвердить</string>
 </resources>
