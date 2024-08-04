@@ -49,4 +49,5 @@
     <string name="value_has_letters">Маълумот харфхо дорад</string>
     <string name="cancel">Бекор</string>
     <string name="confirm">Тасдик</string>
+    <string name="phone">Телефон</string>
 </resources>
