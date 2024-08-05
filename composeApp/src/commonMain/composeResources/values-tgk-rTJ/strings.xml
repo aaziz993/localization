@@ -50,4 +50,6 @@
     <string name="cancel">Бекор</string>
     <string name="confirm">Тасдик</string>
     <string name="phone">Телефон</string>
+    <string name="about_the_system">Дар бораи система</string>
+    <string name="system_description">Системаи электронии мубодилаи иттилоот барои Маркази вокуниши Хадамоти гумрук</string>
 </resources>
