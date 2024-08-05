@@ -50,4 +50,6 @@
     <string name="cancel">Отменить</string>
     <string name="confirm">Подтвердить</string>
     <string name="phone">Телефон</string>
+    <string name="about_the_system">О системе</string>
+    <string name="system_description">Электронная система обмена данными для Ситуационного центра Таможенной службы</string>
 </resources>
