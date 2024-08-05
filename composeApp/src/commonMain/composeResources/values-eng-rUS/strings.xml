@@ -54,4 +54,6 @@
     <string name="cancel">Cancel</string>
     <string name="confirm">Confirm</string>
     <string name="phone">Phone</string>
+    <string name="about_the_system">About the system</string>
+    <string name="system_description">Electronic System of data exchange for Situational Centre of Customs Service</string>
 </resources>
